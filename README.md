@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yosukeofc/yosukeofc/output/snake.svg" alt="Snake animation" />
-
-###
